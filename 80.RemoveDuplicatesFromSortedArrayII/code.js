@@ -34,5 +34,4 @@ var removeDuplicates = function (nums) {
 };
 
 let result = removeDuplicates(nums);
-console.log("🚀 ~ file: code.js:36 ~ nums:", nums);
 console.log("~ result:", result);
